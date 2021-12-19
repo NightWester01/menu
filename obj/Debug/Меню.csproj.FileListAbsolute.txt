@@ -1,0 +1,7 @@
+D:\Visual\Меню\Меню\bin\Debug\Меню.exe.config
+D:\Visual\Меню\Меню\bin\Debug\Меню.exe
+D:\Visual\Меню\Меню\bin\Debug\Меню.pdb
+D:\Visual\Меню\Меню\obj\Debug\Меню.csproj.AssemblyReference.cache
+D:\Visual\Меню\Меню\obj\Debug\Меню.csproj.CoreCompileInputs.cache
+D:\Visual\Меню\Меню\obj\Debug\Меню.exe
+D:\Visual\Меню\Меню\obj\Debug\Меню.pdb
